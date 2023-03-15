@@ -33,20 +33,20 @@ Die Veranstaltung wird als hybride Vorlesung in Präsenz (Raum B001) stattfinden
 
 | Datum  | Nr | Vorlesung | 
 | ------------- | ------------- | ------------- | 
-|  Do, 20.04.2023 |  **0** | ***Shell*-Grundlagen** |
-|  Do, 27.04.2023 |  **1** | **Korpusverarbeitung mit *Shell*-Skripten** |
-|  Do, 04.05.2023 |  **2** | **Korpusverarbeitung mit *Python*: *NLTK*** |
-|  Do, 11.05.2023 |  **3** | **Korpusannotation mit *stanza* und *spaCy*** |
+|  Do, 20.04.2023 |  **1** | ***Shell*-Grundlagen** |
+|  Do, 27.04.2023 |  **2** | **Korpusverarbeitung mit *Shell*-Skripten** |
+|  Do, 04.05.2023 |  **3** | **Textmanipulation und Encoding mit der *Shell*:  *sed*, *awk*, *recode*, *uconv*** |
+|  Do, 11.05.2023 |  **4** | **Korpusverarbeitung mit *Python*: *NLTK*** |
 |  Do, 18.05.2023 |  - | *(Feiertag)*  |
-|  Do, 25.05.2023 |  **4** | **Korpusanalyse mit *pandas*** |
-|  Do, 01.06.2023 |  **5** | **Korpusanalyse mit *scikit-learn*** |
+|  Do, 25.05.2023 |  **5** | **Korpusverarbeitung mit *Python*: *pandas*, *scikit-learn*** |
+|  Do, 01.06.2023 |  **6** | **Korpusannotation  mit *Python*: *stanza*** |
 |  Do, 08.06.2023 | - | *(Feiertag)*  |
-|  Do, 15.06.2023 |  **6** | **Textmanipulation und Encoding mit der *Shell*:  *sed*, *awk*, *recode*, *uconv*** |
-|  Do, 22.06.2023 |  **7.1** | **Semistrukturierte Daten und XML-Korpora: *etree*, *Beautiful Soup*** |
-|  Do, 29.06.2023 |  **7.2** |  **XML-Parsing** + ***PROBEKLAUSUR*** |
+|  Do, 15.06.2023 |  **7a** | **Semistrukturierte Daten und XML-Korpora: *etree*, *Beautiful Soup*** |
+|  Do, 22.06.2023 |  **7b** |  **XML-Parsing** + ***PROBEKLAUSUR*** |
+|  Do, 29.06.2023 |  **8** | **Erzeugen eigener POS-Tagger: *NLTK*, *TreeTagger***
 |  Do, 06.07.2023 |   | ***KLAUSURVORBEREITUNG*** |
 |  Do, 13.07.2023 |   | **KLAUSUR** |
-|  Do, 20.07.2023 |  **8+9** | **8. Erzeugen eigener POS-Tagger: *NLTK*, *TreeTagger*** <br> **9. Korpus-APIs (DTA) und Webcrawler** |
+|  Do, 20.07.2023 |  **9** | **9. Korpus-APIs (DTA) und Webcrawler** |
 
 
 ## Klausur:
