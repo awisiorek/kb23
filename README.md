@@ -14,7 +14,7 @@ Die Veranstaltung wird als hybride Vorlesung in Präsenz (Raum B001) stattfinden
 
 - Vorlesung: Do 14:15-15:45 (Axel Wisiorek), Raum: B001
 
-- Tutorium: Fr 14:15-15:45 (Sarah Uffelmann)
+- Tutorium: Fr 14:15-15:45 (Sarah Uffelmann), Raum: Geschw.-Scholl-Pl. 1 (HGB) A 020
 
 
 
