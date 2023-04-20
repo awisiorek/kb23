@@ -120,7 +120,7 @@ A:  File > New > Terminal. (oder über den Launcher)
 
 ### Änderung der Default Shell zu Bash
 
-In der Veranstaltung werden Bash-Skripte verwendet, d.g. ggf. sollten Sie Ihre Default Shell anpassen (Apple verwendet seit einiger Zeit Zsh als die Default Shell in MacOS). Geben Sie dazu folgenden Befehl im Terminal ein und starten Sie das Terminal neu.
+In der Veranstaltung werden Bash-Skripte verwendet, d.h. ggf. sollten Sie Ihre Default Shell anpassen (Apple verwendet seit einiger Zeit Zsh als die Default Shell in MacOS). Geben Sie dazu folgenden Befehl im Terminal ein und starten Sie das Terminal neu.
 
 ```shell
 chsh -s /bin/bash
