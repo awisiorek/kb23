@@ -35,7 +35,7 @@
 ### Aufgaben:
 
 - **praktische Anwendung der besprochenen Methoden und Tools für Korpusbearbeitung** (z.B. Anwendung von POS-Taggern)
-- Aufgaben werden zu Beginn der nächten Vorlesung besprochen
+- Aufgaben werden zu Beginn der nächsten Vorlesung besprochen
 
 
 
