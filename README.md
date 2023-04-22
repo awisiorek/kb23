@@ -33,20 +33,20 @@ https://moodle.lmu.de/course/view.php?id=26894
 
 | Datum  | Nr | Vorlesung | 
 | ------------- | ------------- | ------------- | 
-|  Do, 20.04.2023 |  **1** | ***Shell*-Grundlagen** |
-|  Do, 27.04.2023 |  **2** | **Korpusverarbeitung mit *Shell*-Skripten** |
-|  Do, 04.05.2023 |  **3** | **Textmanipulation und Encoding mit der *Shell*:  *sed*, *awk*, *recode*, *uconv*** |
-|  Do, 11.05.2023 |  **4** | **Korpusverarbeitung mit *Python*: *NLTK*** |
+|  Do, 20.04.2023 |  **0** | ***Shell*-Grundlagen** |
+|  Do, 27.04.2023 |   **1** | ***Shell*-Skripte** |
+|  Do, 04.05.2023 |  **2** | ***Shell*-Korpusverarbeitung** |
+|  Do, 11.05.2023 | **3** | ***Shell*-Encoding und Textmanipulation mit *awk*** |
 |  Do, 18.05.2023 |  - | *(Feiertag)*  |
-|  Do, 25.05.2023 |  **5** | **Korpusverarbeitung mit *Python*: *pandas*, *scikit-learn*** |
-|  Do, 01.06.2023 |  **6** | **Korpusannotation  mit *Python*: *stanza*** |
+|  Do, 25.05.2023 |   **4** | ***Python*-Korpusverarbeitung mit *NLTK*** |
+|  Do, 01.06.2023 |  **5** | ***Python*-Korpusverarbeitung mit *pandas* & *scikit-learn*** |
 |  Do, 08.06.2023 | - | *(Feiertag)*  |
-|  Do, 15.06.2023 |  **7a** | **Semistrukturierte Daten und XML-Korpora: *etree*, *Beautiful Soup*** |
-|  Do, 22.06.2023 |  **7b** |  **XML-Parsing** + ***PROBEKLAUSUR*** |
-|  Do, 29.06.2023 |  **8** | **Erzeugen eigener POS-Tagger: *NLTK*, *TreeTagger***
+|  Do, 15.06.2023 | **6** | ***Python*-Korpusannotation mit *stanza*** |
+|  Do, 22.06.2023 |  **7a** | **XML-Korpora** |
+|  Do, 29.06.2023 |  **7b** |  **XML-Parsing** + ***PROBEKLAUSUR*** |
 |  Do, 06.07.2023 |   | ***KLAUSURVORBEREITUNG*** |
 |  Do, 13.07.2023 |   | **KLAUSUR** |
-|  Do, 20.07.2023 |  **9** | **9. Korpus-APIs (DTA) und Webcrawler** |
+|  Do, 20.07.2023 |  **8+9** | **Erzeugen eigener POS-Tagger <br> 9. Korpus-APIs (DTA) und Webcrawler** |
 
 
 ## Klausur:
