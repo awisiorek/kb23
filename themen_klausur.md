@@ -60,9 +60,3 @@
 - Download von Korpusfiles: requests, urllib
 - Korpus-Formate: TEI-XML, TCF-XML
 
-
-## 8. Erzeugung eigener Tagger
-
-- Mapping verschiedener Tagsets
-- Training und Serialisierung/Speicherung eigener Tagger mit NLTK-Elternklasse
-- Verknüpfung von Taggern über Backoff-Tagger
