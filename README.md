@@ -46,7 +46,7 @@ https://moodle.lmu.de/course/view.php?id=26894
 |  Do, 29.06.2023 |  **7b** |  **XML-Parsing** + ***PROBEKLAUSUR*** |
 |  Do, 06.07.2023 |   | ***KLAUSURVORBEREITUNG*** |
 |  Do, 13.07.2023 |   | **KLAUSUR** |
-|  Do, 20.07.2023 |  **8+9** | **Erzeugen eigener POS-Tagger <br> 9. Korpus-APIs (DTA) und Webcrawler** |
+|  Do, 20.07.2023 |  **8+9** | **8. Erzeugen eigener POS-Tagger <br>9. Korpus-APIs (DTA) und Webcrawler** |
 
 
 ## Klausur:
