@@ -2,9 +2,6 @@
 import unicodedata
 import sys
 
-# nfc = unicodedata.normalize('NFC', sys.stdin.read())
-# print(len(nfc))
-
 count = 0
 other = 0
 for chr in sys.stdin.read():
