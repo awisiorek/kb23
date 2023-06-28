@@ -12,26 +12,29 @@
 
 ## 2. Korpusverarbeitung mit der shell 
 
-- Textwerkzeuge: echo, wc, grep, tr, sort, uniq, sed, awk
-- Frequenzlisten
+- Textwerkzeuge: echo, wc, grep, tr, sort, uniq
+- Frequenzlisten, Bigramme
+- Tools für Textverabreitung: sed (aktiv), awk (passiv)
 
 
 
 ## 3. Unicode und Zeichenkodierung 
 
 - Kodierungen: ASCII, Latin/ISO-8859, UTF8
-- UNIX-Kodierungstools: uconv/iconv, recode, hexdump, file
-- Encoding in Python: encode/decode, unicodedata, chardet
 - kombinierende Zeichen
+- Zählen von Bytes und Zeichen mit wc 
+- Encoding in Python: unicodedata,  encode/decode
+
+- *(nicht relevant: UNIX-Tools für Kodierung: uconv/iconv, recode, hexdump, file)*
 
 
 
 ## 4. Korpusverarbeitung in Python mit NLTK
 
-- Frequenzlisten nativ
+- Frequenzlisten mit Python
+- Frequenzlisten und Bigramme mit NLTK: (Conditional)FreqDist, ngrams, CollocationFinder
 - NLTK-Preprocessing-Methoden: word_tokenize, CorpusReader
-- NLTK-Resourcen: Plain-Text-Korpora, Tagged-Korpora, Treebanks, Wordlisten
-- NLTK-Korpus-Statistik: Frequenzlisten mit (Conditional)FreqDist, Kollokationen/ngrams
+- NLTK-Resourcen: Stopwortlisten, plain-text vs. tagged Korpora
 
 
 
@@ -40,7 +43,7 @@
 - pandas: Arbeiten mit Dataframes
 - Berechnung von Frequenzlisten mit pandas-Methoden bzw. Counter
 - scikit-learn: Train-Test-Split
-- scikit-learn: CountVectorizer, TfidfVectorizer
+- scikit-learn: CountVectorizer 
 
 
 
@@ -48,15 +51,15 @@
 
 - Processors: Tokenization, Lemmatization, POS Tagging, Syntactic Parsing, Named Entity Recognition, Sentiment Analysis
 - regelbasierte vs. statistische Annotationsmodelle
-- UD-Korpora
+- UD-Korpora (Kenntnis CONLL-Format)
 
 
 
 ## 7. Parsing semistrukturierter Korpusformate
 
-- JSON-Parser, XML-Parser
 - XML-Syntax: Elemente, Attribute, Entitäten
-- Namespaces
+- Arbeiten mit Namespaces
+- XML-Parsing und -Erzeugung mit etree
 - Download von Korpusfiles: requests, urllib
-- Korpus-Formate: TEI-XML, TCF-XML
+- Korpus-Formate: TEI-XML
 
