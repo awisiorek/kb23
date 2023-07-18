@@ -46,7 +46,7 @@ https://moodle.lmu.de/course/view.php?id=26894
 |  Do, 29.06.2023 |  **7b** |  **XML-Parsing** + ***PROBEKLAUSUR*** |
 |  Do, 06.07.2023 |   | ***KLAUSURVORBEREITUNG*** |
 |  Do, 13.07.2023 |   | **KLAUSUR** |
-|  Do, 20.07.2023 |  8+9 | 8. Erzeugen eigener POS-Tagger <br>9. Korpus-APIs (DTA) und Webcrawler |
+|  Do, 20.07.2023 |  8+9 | [Aufgabe 7.2 POS-Extraktion aus TCF-XML](https://github.com/awisiorek/kb22/blob/main/07_xml_corpus/07_aufgaben/07_aufgaben.ipynb)<br>[8. Erzeugen eigener POS-Tagger](https://github.com/awisiorek/kb22/blob/main/08_pos_tagging/08_pos_tagging.ipynb)<br>[9. Korpus-APIs (DTA) und Webcrawler](https://github.com/awisiorek/kb22/blob/main/09_corpus_api/09_api.ipynb) |
 
 
 ## Klausur:
